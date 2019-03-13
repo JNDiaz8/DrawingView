@@ -10,7 +10,13 @@
         android:layout_width="48dp"
         android:clickable="true"
         android:layout_height="48dp"
-        android:background="#2196F3" />
+        android:background="#000000" />
+
+    <View
+        android:layout_width="48dp"
+        android:clickable="true"
+        android:layout_height="48dp"
+        android:background="#FF0000" />
 
     <View
         android:layout_width="48dp"
@@ -22,18 +28,12 @@
         android:layout_width="48dp"
         android:clickable="true"
         android:layout_height="48dp"
-        android:background="#435772" />
+        android:background="#60FF00" />
 
     <View
         android:layout_width="48dp"
         android:clickable="true"
         android:layout_height="48dp"
-        android:background="#ffffff" />
-
-    <View
-        android:layout_width="48dp"
-        android:clickable="true"
-        android:layout_height="48dp"
-        android:background="#ab278c" />
+        android:background="#007BFF" />
 
 </LinearLayout>
